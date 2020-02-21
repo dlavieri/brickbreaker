@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+canvas {
+    background-color: white;
+}
